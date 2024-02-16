@@ -4,7 +4,7 @@ date: 2022-04-04T09:00:00Z
 image: /images/post/post-1.png
 categories: ["workstation", "youtube"]
 featured: false
-draft: false
+draft: true
 ---
 
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.

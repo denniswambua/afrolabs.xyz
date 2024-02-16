@@ -23,12 +23,12 @@
   "params": {
     "tag_manager_id": "",
     "footer_content": "Tech, Finance, AI and Open Source.",
-    "copyright": "afrolabs tech @2023 Template By [Statichunt](https://statichunt.com/)"
+    "copyright": "afrolabs @2024"
   },
   "metadata": {
-    "meta_author": "Statichunt",
+    "meta_author": "Dennis Wambua",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Geeky Nextjs Personal Blog Template"
+    "meta_description": "afrolabs Nextjs Blog"
   },
   "widgets": {
     "about": {

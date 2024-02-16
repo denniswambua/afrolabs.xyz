@@ -16,5 +16,5 @@ addresses:
   - icon: FaLocation
     content: 9567 Turner Trace Apt. BC C3G8A4
 
-draft: false
+draft: true
 ---
