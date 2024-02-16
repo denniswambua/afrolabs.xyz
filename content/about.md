@@ -1,5 +1,6 @@
 ---
 title: About The Author
+draft: true
 image: /images/author.png
 description: "meta description"
 layout: about
