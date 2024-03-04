@@ -3,7 +3,7 @@ title: "Is Forex Trading Gambling?"
 date: 2024-02-16T08:00:00Z
 image: /images/post/fx_vs_gambling.png
 categories: ["fx", "forex", "finance"]
-featured: true
+featured: false
 draft: false
 ---
 
